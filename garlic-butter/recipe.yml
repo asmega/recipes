@@ -1,5 +1,7 @@
 meta:
-  title: Garlic butter
+  name: Garlic butter
+  description: Perfect on bread
+  visibility: public
 ingredients:
   - Butter (slightly salted)
   - 1 block
