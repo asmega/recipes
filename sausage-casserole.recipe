@@ -1,0 +1,32 @@
+name: sausage casserole
+meta:
+  serves: 2
+  times:
+    prep: PT45M
+    active: PT45M
+    total: PT1H30M
+tags:
+- dinner
+- hearty
+- main
+ingredients:
+- sausages: 6
+- chorizo sausages
+- onions: 1
+- soffritto
+- pepper: optional
+- garlic
+- paprika
+- cumin
+- thyme
+- white wine: 125ml
+- tinned tomatoes: 2x 400g
+- stock cube
+steps:
+- brown all sausages, set aside
+- soften onions, soffritto, garlic
+- add spices, herbs to fry off
+- add white wine
+- add tomatoes, stock cube
+- cook with lid off, 20 minutes
+- serve with mash
